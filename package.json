@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zaydorade/Employee-tracker.git"
+  },
+  "author": "zayd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zaydorade/Employee-tracker/issues"
+  },
+  "homepage": "https://github.com/Zaydorade/Employee-tracker#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
